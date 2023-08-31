@@ -1,0 +1,19 @@
+.navbar-style {
+  background-color: #2a67ad !important;
+}
+
+.header {
+  background-color: #e6e6e6;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.nav-linl.active{
+  color: #ffffff;
+  border-bottom: 2px solid #ffffff;
+}
+
+.dropdown-menu{
+  z-index: 10000;
+}
